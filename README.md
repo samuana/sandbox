@@ -2,6 +2,10 @@
 
 *Käyttäjän* tulee lukea tämä!
 
+## Linkit
+[gitlog.txt](https://github.com/samuana/sandbox/blob/master/laskarit/viikko1/gitlog.txt)
+[komentorivi.txt](https://github.com/samuana/sandbox/blob/master/laskarit/viikko1/komentorivi.txt)
+
 ## Listakokeilu
 
 Liste tehdään numero ykkösellä joka rivin alkuun
