@@ -1,6 +1,6 @@
 # Readmeeta
 
-*Käyttäjän* tulee lukea tämä!
+*Käyttäjän* tulee lukea [tämä](https://www.fmi.fi)!
 
 ## Linkit
 [gitlog.txt](https://github.com/samuana/sandbox/blob/master/laskarit/viikko1/gitlog.txt)
